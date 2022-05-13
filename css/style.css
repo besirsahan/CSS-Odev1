@@ -1,0 +1,17 @@
+body {
+    background-color: hwb(21 75% 7%);
+}
+
+h1 {
+    color: #ff5f00;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
